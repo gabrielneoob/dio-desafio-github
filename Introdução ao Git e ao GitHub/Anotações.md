@@ -26,4 +26,5 @@ Git é um terminal estendido para otimizar o uso do Git.
    - git init (iniciar um repositório git)
    - git add "nome do arquivo",-a,*,-u (adicionar um ao repositório)
    - git commimt -m "comentário" (commitar o repositório ao GitHub)
-   - git status
+   - git push (enviar o repositório ao GitHub)
+   - 
